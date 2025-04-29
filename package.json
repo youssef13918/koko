@@ -1,0 +1,16 @@
+{
+  "name": "bombgood-reloaded",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "next": "latest",
+    "tailwindcss": "^3.0.0",
+    "pnpm": "^7.0.0"
+  }
+}
